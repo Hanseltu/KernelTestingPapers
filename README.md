@@ -7,7 +7,7 @@
 
 - Survey/Review
 - NDSS 2019
-  - [HFL: Hybrid Fuzzing on the Linux Kernel](papers/NDSS2019-HFL Hybrid Fuzzing on the Linux Kernel.pdf)
+  - [HFL: Hybrid Fuzzing on the Linux Kernel](https://github.com/Hanseltu/KernelTestingPapers/blob/main/papers/NDSS2019-HFL%20Hybrid%20Fuzzing%20on%20the%20Linux%20Kernel.pdf)
 
 
 
